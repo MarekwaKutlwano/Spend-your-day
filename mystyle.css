@@ -1,0 +1,9 @@
+body {
+  background-color: lightgreen;
+  color: white;
+}
+h1 {
+  color: darkgreen;
+ text-align: centre; 
+ text-transform: uppercase;
+}
